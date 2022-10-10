@@ -1,0 +1,1 @@
+/Users/howl/AndroidStudioProjects/HowlOpenCV/sdk/build/intermediates/cxx/RelWithDebInfo/2p482rm2/obj/x86
